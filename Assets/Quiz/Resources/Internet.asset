@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: Internet
+  m_EditorClassIdentifier: 
+  categoryName: Internet
+  questions:
+  - questionInfo: Which Internet Browser is on apple devices?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Safari
+    - Firefox
+    - Chrome
+    - Opera
+    correctAns: Safari
+  - questionInfo: Which browser app has an icon of red O?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Safari
+    - Firefox
+    - Opera
+    - Chrome
+    correctAns: Opera
+  - questionInfo: Which browser app is from Google?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Opera
+    - Safari
+    - Chrome
+    - Opera
+    correctAns: Chrome
+  - questionInfo: 
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options: []
+    correctAns: 
+  - questionInfo: Which is the correct full form of URL?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - United Result Look
+    - 'Uniform Restore Lap '
+    - Uniform Resource Locator
+    - Unlimited Repo Loop
+    correctAns: Uniform Resource Locator
+  - questionInfo: Correct full form of HTTP?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Hyper Text Transfer Protocol
+    - Human To Tech Pro
+    - Hyper Track To Play
+    correctAns: Hyper Text Transfer Protocol
+  - questionInfo: Correct full form of WWW?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - World Wide Web
+    - Where Were We
+    - We Were Was
+    correctAns: World Wide Web
+  - questionInfo: _ Is the Microsoft search engine
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Bing
+    - Google
+    - Ask
+    - Startpage
+    correctAns: Bing
+  - questionInfo: 2 Main types of Computer Network
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - LAN, WAN
+    - PAN, MAN
+    - ARPANET, COMNET
+    correctAns: LAN, WAN
+  - questionInfo: Professional way of communicating online via _?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - facebook
+    - email
+    - firewall
+    correctAns: email

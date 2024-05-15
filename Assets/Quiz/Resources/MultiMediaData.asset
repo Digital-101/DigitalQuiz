@@ -1,0 +1,93 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: MultiMediaData
+  m_EditorClassIdentifier: 
+  categoryName: Multimedia
+  questions:
+  - questionInfo: _ refers to information types captured from the real world e.g
+      pictures and sound.
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Captured Media
+    - Synthesized Media
+    - Discrete Media
+    - Continuous
+    correctAns: Captured Media
+  - questionInfo: _ refers to information types synthesized by the computers e.g
+      Text, Graphics and Animation
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Captured Media
+    - Synthesized Media
+    - Discrete Media
+    - Continuous
+    correctAns: Synthesized Media
+  - questionInfo: Which of the following are multimedia soft wares
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Audio Software
+    - Videos Software
+    - Graphics Software
+    - All of the above
+    correctAns: All of the above
+  - questionInfo: 
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options: []
+    correctAns: 
+  - questionInfo: What is the arc of animation?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - It determines the color scheme of the character
+    - It determines the thickness of character
+    - It determines the length of the animated character
+    - It determines the poses of the animated character
+    correctAns: It determines the poses of the animated character
+  - questionInfo: _ refers to media involving space dimension only e.g. Still Images,
+      Text and Graphics
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Captured Media
+    - Synthesized Media
+    - Discrete Media
+    - Continuous
+    correctAns: Discrete Media
+  - questionInfo: _ (time based) media refers to media (e.g. Sound, moving images
+      and animation)
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Captured Media
+    - Synthesized Media
+    - Discrete Media
+    - Continuous
+    correctAns: Continuous

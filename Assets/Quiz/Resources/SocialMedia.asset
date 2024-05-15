@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: SocialMedia
+  m_EditorClassIdentifier: 
+  categoryName: SocialMedia
+  questions:
+  - questionInfo: Which Social media app icon has Camera?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Instagram
+    - Twitter
+    - Facebook
+    - WhatsApp
+    correctAns: Instagram
+  - questionInfo: Which text app is known as the green app?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Instagram
+    - Facebook
+    - Twitter
+    - WhatsApp
+    correctAns: WhatsApp
+  - questionInfo: Which app had a bird icon?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Facebook
+    - Twitter
+    - Instagram
+    - WhatsApp
+    correctAns: Twitter
+  - questionInfo: 
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options: []
+    correctAns: 
+  - questionInfo: Which app was founded by Mark Zukerberg?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Facebook
+    - WhatsApp
+    - Twitter
+    - Instagram
+    correctAns: Facebook
+  - questionInfo: Which company was bought by Elon Musk and changed the name to X
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Facebook
+    - Twitter
+    - Instagram
+    - WhatsApp
+    correctAns: Twitter
+  - questionInfo: 'How many people are on social media? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 3.81 Billion
+    - 4.2 Million
+    - 6 Million
+    - 1 Billion
+    correctAns: 3.81 Billion
+  - questionInfo: 'What is the most popular social media platform? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - TikTok
+    - Instagram
+    - Facebook
+    - WhatsApp
+    correctAns: Facebook
+  - questionInfo: 'What is the fastest growing social media platform? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Twitter
+    - TikTok
+    - Facebook
+    - Instagram
+    correctAns: TikTok
+  - questionInfo: 'What is the average age of Instagram users? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 13-30
+    - 18-34
+    - 10-29
+    - 21-48
+    correctAns: 18-34

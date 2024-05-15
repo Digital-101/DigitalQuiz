@@ -1,0 +1,126 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f611d797432e3f846885b2b12fde5f35, type: 3}
+  m_Name: WorldSoccer
+  m_EditorClassIdentifier: 
+  categoryName: WorldSoccer
+  questions:
+  - questionInfo: Which country hosted world cup in 2010?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - South Africa
+    - Brazil
+    - Russia
+    - Qatar
+    correctAns: South Africa
+  - questionInfo: Which country hosted world cup in 2022?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - South Africa
+    - Brazil
+    - Russia
+    - Qatar
+    correctAns: Qatar
+  - questionInfo: 'Which was first country to Win world cup? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - USA
+    - France
+    - Uruguay
+    - North Korea
+    correctAns: Uruguay
+  - questionInfo: 
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - 
+    - 
+    - 
+    - 
+    correctAns: 
+  - questionInfo: What is the full form acronym of FIFA?
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Federation International Football Association
+    - Full Inter Football Alliance
+    - Federation Info Firm Areas
+    - Field Info Fair Alias
+    correctAns: Federation International Football Association
+  - questionInfo: 'Which country won most world cups? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Germany
+    - Brazil
+    - Argentina
+    - Cameroon
+    correctAns: Brazil
+  - questionInfo: 'Which country has an original world trophy? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Italy
+    - Japan
+    - France
+    - Switzerland
+    correctAns: Switzerland
+  - questionInfo: "Who was the captain of Argentina\u2019s first world cup win? "
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - David Beckham
+    - James Rodrigues
+    - Daniel Passarella
+    - Martin Corey
+    correctAns: Daniel Passarella
+  - questionInfo: 'In which country was the first world cup held?   '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Uruguay
+    - Egypt
+    - China
+    - England
+    correctAns: Uruguay
+  - questionInfo: 'Who has the best goal in the World Cup history? '
+    questionType: 0
+    questionImage: {fileID: 0}
+    audioClip: {fileID: 0}
+    videoClip: {fileID: 0}
+    options:
+    - Lionel Messi
+    - Frank Lampard
+    - Siphiwe Tshabalala
+    - Wayne Rooney
+    correctAns: Siphiwe Tshabalala
